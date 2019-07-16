@@ -1,0 +1,45 @@
+#app {
+    font-family: 'Indie Flower', cursive;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 60px; 
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px; 
+}
+.input-task {
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 110%;
+    margin-bottom: 10px;
+}
+.button {
+    background-color: black;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
+.list-titles {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.lists {
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+}
+
+.list {
+    width: 50%;
+}
